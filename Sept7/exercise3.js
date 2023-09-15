@@ -4,7 +4,6 @@ function names() {
     return function middleName() {
         let mName = "Reed";
         
-        
          return function lastName() {
             let lName = "Punches";
             return fName + " " + mName + " " + lName
